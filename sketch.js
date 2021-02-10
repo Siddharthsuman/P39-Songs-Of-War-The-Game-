@@ -47,10 +47,10 @@ P2=loadImage("Power/PS2.png");
 P3=loadImage("Power/PS3.png");
 P4=loadImage("Power/PS4.png");
 SoImg=loadImage("H/SongsP.png");
-thunder=loadSound("Sound/thunder.mp3");
+thunder=loadSound("thunder.mp3");
 restartImg=loadImage("Background/restart.png")
 gameOverImg=loadImage("Background/gameover.png")
-die=loadSound("Sound/die.mp3")
+die=loadSound("die.mp3")
 Talk1Img=loadImage("H/TT1.png")
 Talk2Img=loadImage("H/DT1.png")
 Talk3Img=loadImage("H/TT2.png")
@@ -69,11 +69,11 @@ portalImg=loadImage("DeathSinger/Portal.png")
 note1Img=loadImage("H/note1.png")
 note2Img=loadImage("H/note2.png")
 
-SpearS=loadSound("Sound/swoosh.mp3");
-VolS=loadSound("Sound/sword.mp3");
-  jumpSound = loadSound("Sound/jump.mp3")
+SpearS=loadSound("swoosh.mp3");
+VolS=loadSound("sword.mp3");
+  jumpSound = loadSound("jump.mp3")
   SwordImg=loadImage("Thalleous/Sword.png")
-MySound=loadSound("Sound/MySound.mp3")
+MySound=loadSound("MySound.mp3")
 
 // Background
 backgroundImg1=loadImage("Background/Fight.png")
